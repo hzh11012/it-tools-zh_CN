@@ -68,9 +68,6 @@ dependencies:
   dompurify:
     specifier: ^3.0.6
     version: 3.0.6
-  emojilib:
-    specifier: ^3.0.11
-    version: 3.0.11
   figue:
     specifier: ^1.2.0
     version: 1.2.0
@@ -146,9 +143,6 @@ dependencies:
   ulid:
     specifier: ^2.3.0
     version: 2.3.0
-  unicode-emoji-json:
-    specifier: ^0.4.0
-    version: 0.4.0
   unplugin-auto-import:
     specifier: ^0.16.7
     version: 0.16.7(@vueuse/core@10.7.1)(rollup@2.79.1)
@@ -4457,10 +4451,6 @@ packages:
     resolution: {integrity: sha512-L18DaJsXSUk2+42pv8mLs5jJT2hqFkFE4j21wOmgbUqsZ2hL72NsUU785g9RXgo3s0ZNgVl42TiHp3ZtOv/Vyg==}
     dev: true
 
-  /emojilib@3.0.11:
-    resolution: {integrity: sha512-OuML9z640prB+0Rms1RgzJrBAqNC9mFdqT2HeFcXSGSGNEiZh9adsaPPxWbqRoMyJPzu+zNKPyGKv4/sPmJDyg==}
-    dev: false
-
   /encode-utf8@1.0.3:
     resolution: {integrity: sha512-ucAnuBEhUK4boH2HjVYG5Q2mQyPorvv0u/ocS+zhdw0S8AlHYY+GOFhP1Gio5z4icpP2ivFSvhtFjQi8+T9ppw==}
     dev: false
@@ -8194,10 +8184,6 @@ packages:
     resolution: {integrity: sha512-yY5PpDlfVIU5+y/BSCxAJRBIS1Zc2dDG3Ujq+sR0U+JjUevW2JhocOF+soROYDSaAezOzOKuyyixhD6mBknSmQ==}
     engines: {node: '>=4'}
     dev: true
-
-  /unicode-emoji-json@0.4.0:
-    resolution: {integrity: sha512-lVNOwh2AnmbwqtSrEVjAWKQoVzWgyWmXVqPuPkPfKb0tnA0+uYN/4ILCTdy9IRj/+3drAVhmjwjNJQr2dhCwnA==}
-    dev: false
 
   /unicode-match-property-ecmascript@2.0.0:
     resolution: {integrity: sha512-5kaZCrbp5mmbz5ulBkDkbY0SsPOjKqVS35VpL9ulMPfSl0J0Xsm+9Evphv9CoIZFwre7aJoa94AY6seMKGVN5Q==}
