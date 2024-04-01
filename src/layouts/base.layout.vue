@@ -59,7 +59,7 @@ const tools = computed<ToolCategory[]>(() => [
 
         <div class="footer">
           <div>
-            <c-link target="_blank" rel="noopener" :href="`https://github.com/angelofan/it-tools/tree/v${version}`">
+            <c-link target="_blank" rel="noopener" href="https://qnets.cn">
               Qnets
             </c-link>
             © {{ new Date().getFullYear() }}
